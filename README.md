@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iftekhar Salmin Rashid</h1>
-<h3 align="center">A dedicated passionate frontend developer from Dhaka Bangladesh</h3>
+<h3 align="center">A dedicated and a passionate frontend developer from Dhaka Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekhar2979&label=Profile%20views&color=0e75b6&style=flat" alt="iftekhar2979" /> </p>
 
