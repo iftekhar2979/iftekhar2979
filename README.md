@@ -48,7 +48,9 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=iftekhar2979&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekhar2979&label=Profile%20views&color=0e75b6&style=flat" alt="iftekhar2979" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekhar2979" alt="iftekhar2979" /></a> </p>
 </p>
 
 
