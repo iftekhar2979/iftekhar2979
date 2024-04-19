@@ -6,7 +6,7 @@
 
 ## About Me
 <p align="center">
-  <p>I'm Iftekhar Salmin Rashid, an B.S student at Govt. Bangla College under Dhaka University. Specializing in web technologies such as Javascript, React, Redux js , Redux toolkit , Node.js, Express.js, and MongoDB, Prisma I enjoy building dynamic websites to meet diverse client needs. Interested in exploring frontend development, I am actively seeking opportunities to contribute my skills and collaborate on successful projects. My mission over the next two years is to become a full- stack developer, showcasing my enthusiasm for learning and trying new things in the ever-evolving field of web development.</p>
+  <p>I'm Iftekhar Salmin Rashid, an B.S student. Specializing in web technologies such as Javascript, React, Redux js , Redux toolkit , Node.js, Express.js, and MongoDB, Prisma I enjoy building dynamic websites to meet diverse client needs. Interested in exploring frontend development, I am actively seeking opportunities to contribute my skills and collaborate on successful projects. My mission over the next two years is to become a full- stack developer, showcasing my enthusiasm for learning and trying new things in the ever-evolving field of web development.</p>
 </p>
 
 <h1  align="left" >📫 Reach Me Through</h1>
