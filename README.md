@@ -63,7 +63,7 @@
   </br>
 <p align="center">
   <p>1. Garments Sourching Management</p>
-  <p>Live link: https://mellifluous-kashata-ea4cfa.netlify.app/ </p>
+  <p>Live link: https://testerp.theabcsi.com/ </p>
   <p>This web application serves as a comprehensive dashboard for managing orders, deliveries, and proforma invoices within a garments sourcing company. Designed to streamline operations, it facilitates efficient tracking and management of essential business processes. The application supports two primary roles: Admin and User, each with distinct access levels tailored to their responsibilities.</p>
 
   </br>
