@@ -33,6 +33,7 @@
 <img height="60" src="https://i.ibb.co/dcvyp95/ta-choto.webp"/>
 <img height="60" src="https://i.ibb.co/pLhXD5r/ffffffffff.png"/>
 <img height="60" src="https://i.ibb.co/3WjkjcV/javascript.png"/>
+  <img height="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F95017%2Ftypescript-icon&psig=AOvVaw3WJdst2g3R17XAMWBhH6OX&ust=1734884605267000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiYs_yiuYoDFQAAAAAdAAAAABAE"
 <img height="60" src="https://i.ibb.co/Y0VzS5P/react.webp"/>
 <img height="60" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"/>
 <img height="60" src="https://i.ibb.co/z4G0XXn/node.png"/>
